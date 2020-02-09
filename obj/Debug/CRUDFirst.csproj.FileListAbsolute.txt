@@ -1,0 +1,9 @@
+C:\Users\AeryIce\source\repos\CRUDFirst\bin\Debug\CRUDFirst.exe.config
+C:\Users\AeryIce\source\repos\CRUDFirst\bin\Debug\CRUDFirst.exe
+C:\Users\AeryIce\source\repos\CRUDFirst\bin\Debug\CRUDFirst.pdb
+C:\Users\AeryIce\source\repos\CRUDFirst\obj\Debug\CRUDFirst.csprojAssemblyReference.cache
+C:\Users\AeryIce\source\repos\CRUDFirst\obj\Debug\CRUDFirst.Properties.Resources.resources
+C:\Users\AeryIce\source\repos\CRUDFirst\obj\Debug\CRUDFirst.csproj.GenerateResource.cache
+C:\Users\AeryIce\source\repos\CRUDFirst\obj\Debug\CRUDFirst.exe
+C:\Users\AeryIce\source\repos\CRUDFirst\obj\Debug\CRUDFirst.pdb
+C:\Users\AeryIce\source\repos\CRUDFirst\obj\Debug\CRUDFirst.FormHome.resources
